@@ -7,7 +7,6 @@ title: Home
 
 # Elevated Childhood Lead Interagency Prevalence Study
 
-## ECLIPS 
 
 Lead pollution is a global problem, toxic even in small amounts. It persists in our environment due to past use in paint, petrol, and plumbing, contaminating our air, water, soil, dust, and food. Children are particularly vulnerable to lead's harmful effects because of their developing brains. Lead exposure is preventable.
 
