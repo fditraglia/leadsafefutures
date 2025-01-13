@@ -1,7 +1,15 @@
 ---
 layout: home
 title: Home
+list_title: null   # Removes "Posts" heading
 ---
-Welcome to [Project Name]
+# [Project Name]
 
-Project description and key information go here.
+Brief compelling description of project and mission.
+
+## Key Information
+- Core goal
+- Key outcomes 
+- Target audience
+
+[Call to action or how to get involved]
