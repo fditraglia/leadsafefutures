@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Further Information
+title: Pb Info 
 permalink: /information/
 ---
 ## Additional Resources

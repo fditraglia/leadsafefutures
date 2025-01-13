@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Frequently Asked Questions
+title: FAQ 
 permalink: /faq/
 ---
-## Common Questions
+## Frequently Asked Questions 
 
 ### Question 1
 Answer 1

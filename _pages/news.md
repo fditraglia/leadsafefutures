@@ -1,9 +1,9 @@
 ---
 layout: page
-title: News & Updates
+title: News 
 permalink: /news/
 ---
-## Latest News
+## Project News & Updates
 
 {% for post in site.posts %}
   <article class="post-preview">
