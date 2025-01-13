@@ -1,9 +1,9 @@
 ---
 layout: page  
-title: Home
+title: About 
 ---
 
-# Lead-Safe Futures 
+# Eclips 
 
 
 ## Elevated Childhood Lead Interagency Prevalence Study
