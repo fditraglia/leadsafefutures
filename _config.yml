@@ -1,0 +1,4 @@
+title: Project Name
+description: Brief project description
+theme: minima
+include: ['_pages']
