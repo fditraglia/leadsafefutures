@@ -1,6 +1,6 @@
 ---
-layout: page  # Change from 'home' to 'page'
-title: Home
+layout: page  
 ---
-# [Project Name]
-Project content here
+# Lead-Safe Futures 
+
+Landing page content goes here 
