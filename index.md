@@ -1,9 +1,9 @@
 ---
 layout: page  
-title: About 
+title: Home 
 ---
 
-# Eclips 
+# ECLIPS 
 
 
 ## Elevated Childhood Lead Interagency Prevalence Study
