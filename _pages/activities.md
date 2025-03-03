@@ -19,7 +19,7 @@ The ECLIPS project (Elevated Childhood Lead Interagency Prevalence Study) is dev
 3. Understand barriers to participation
 4. Collect environmental samples to identify potential lead sources
 
-The study will run for 24 months from October 2024, with the ultimate goal of paving the way for a national screening study.
+The study will run for 24 months from January 2025, with the ultimate goal of paving the way for a national screening study.
 
 ### Our Approach
 We're taking a collaborative, multi-disciplinary approach that brings together:
