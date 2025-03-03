@@ -10,7 +10,7 @@ permalink: /information/
 #### Should we still worry about lead?
 
 A report was written for the Royal Society of Chemistry that provides a background on lead exposure and toxicity. 
-[Should we still worry about lead](https://leappalliance.org.uk/wp-content/uploads/2025/03/Should-we-still-worry-about-lead-i1.pdf)].
+[Should we still worry about lead](https://leappalliance.org.uk/wp-content/uploads/2025/03/Should-we-still-worry-about-lead-i1.pdf).
 
 ### Publications
 
