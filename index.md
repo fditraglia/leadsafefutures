@@ -1,11 +1,11 @@
-<head>
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-</head>
-
 ---
 layout: page  
 title: Home 
 ---
+
+<head>
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+</head>
 
 
 # Elevated Childhood Lead Interagency Prevalence Study
