@@ -36,6 +36,13 @@ I am interested in understanding our exposure to harmful chemicals in the enviro
 
 I am an Environmental and health economist. I also work as invited researcher at JPAL (KCAI and North America programs), a CEPR Research Affiliate in the Climate Change and the Environment Programme, as IZA Research Fellow, and as Research Fellow at the Institute for Fiscal Studies. I obtained my PhD in economics from MIT and have co-authored several articles in economics and public health on sources of lead exposure and its social cost. My research uses both experimental and quasi-experimental methods, and leverages both survey and administrative data.
 
+### Neena George
+![NeenaG150](https://github.com/user-attachments/assets/c0ef9c7b-1497-48dc-ade2-9a6a1d29e73f)
+_Epidemiology and Information System Specialist (UKHSA)_
+
+I have a background in public health, with research interests in environmental exposures. I currently work on the LEICSS (Lead Exposure in Children Surveillance System), a national surveillance system coordinated by UKHSA. Additionally, I work on the Arsenic project, looking at the impact of climate change on arsenic concentrations. I have previous experience in managing household surveys and conducting case studies in oncology. 
+
+
 ### Carys Lipiatt
 ![150CarysL](https://github.com/user-attachments/assets/cc310828-55c9-4b18-b4e8-84f2368bc28b) _Consultant Clinical Scientist at Leeds Teaching Hospital NHS Trust_
 
