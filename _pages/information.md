@@ -70,7 +70,6 @@ If testing shows elevated lead levels, healthcare professionals will work with y
 ### Why is this issue important in the UK?
 Although leaded petrol was banned in 2000 and lead in paint has been restricted since the 1970s, many UK homes built before 1970 may still have lead-based paint or lead water pipes. Lead can also be found in soil around homes, especially in industrial areas or near busy roads where leaded petrol was once used.
 
-In the UK alone, lead exposure is estimated to cost society about £6.8 billion per year due to healthcare costs and lost productivity. This is why better screening and prevention efforts are so important.
 
 ### Background Documents
 
