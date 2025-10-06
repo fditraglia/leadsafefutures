@@ -7,5 +7,5 @@ The WHO International Lead Poisoning Prevention Week  (ILPPW) runs from 19th to 
 
 The theme is "No safe level: act now to end lead exposure".
 
-To follow the updates of ILPPW follow this link![https://www.who.int/campaigns/international-lead-poisoning-prevention-week/2025]
+To follow the updates of ILPPW follow [this link](https://www.who.int/campaigns/international-lead-poisoning-prevention-week/2025)
  
