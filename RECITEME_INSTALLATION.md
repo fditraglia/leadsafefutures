@@ -120,7 +120,7 @@ document.addEventListener("DOMContentLoaded", function() {
   {%- include head.html -%}
   <body>
     {%- include header.html -%}
-    {% include reciteme-button.html %}
+    {% raw %}{% include reciteme-button.html %}{% endraw %}
     <main class="page-content" aria-label="Content">
       <div class="wrapper">{{ content }}</div>
     </main>
@@ -131,7 +131,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 **Option B - Homepage only:** Add to `index.md` after front matter:
 ```markdown
-{% include reciteme-button.html %}
+{% raw %}{% include reciteme-button.html %}{% endraw %}
 ```
 
 ### Deploy
