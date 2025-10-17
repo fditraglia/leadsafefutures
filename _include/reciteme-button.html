@@ -1,0 +1,32 @@
+
+```html
+<button id="enableRecite" class="reciteme-button" aria-label="Accessibility Tools">
+  Accessibility
+</button>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  document.getElementById('enableRecite').addEventListener("click", function() {
+    loadService();
+  });
+});
+</script>
+
+<style>
+.reciteme-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #0066cc;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+  z-index: 9999;
+}
+.reciteme-button:hover { background: #0052a3; }
+.reciteme-button:focus { outline: 3px solid #ffc107; }
+</style>
+```
