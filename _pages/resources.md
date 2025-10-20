@@ -10,6 +10,6 @@ permalink: /resources/
 </iframe>
 
 ### Research participant privacy notice
-<iframe src="/files/files/2.3-2019ResearchParticipantPrivacyNoticev1.0.pdf" width="100%" height="600px" style="border: none;">
+<iframe src="/files/2.3-2019ResearchParticipantPrivacyNoticev1.0.pdf" width="100%" height="600px" style="border: none;">
   <p>If your browser does not support iframes. You can <a href="/files/files/2.3-2019ResearchParticipantPrivacyNoticev1.0.pdf">download the PDF</a> instead.</p>
 </iframe>
