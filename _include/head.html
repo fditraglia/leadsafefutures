@@ -1,0 +1,63 @@
+
+```html
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- seo -%}
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  {%- feed_meta -%}
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
+
+  <!-- ReciteMe - replace YOUR_CLIENT_KEY_HERE with actual key -->
+  <script type="text/javascript">
+  var serviceUrl = "//api.reciteme.com/asset/js?key=";
+  var serviceKey = "5a83b63bdd332b3a6ffaf48ef2065669e4dd2afe";
+  var options = {};
+  var autoLoad = false;
+  var enableFragment = "#reciteEnable";
+  var loaded = [], frag = !1;
+
+  window.location.hash === enableFragment && (frag = !0);
+
+  function loadScript(c, b) {
+      var a = document.createElement("script");
+      a.type = "text/javascript";
+      a.readyState ? a.onreadystatechange = function () {
+          if ("loaded" == a.readyState || "complete" == a.readyState) {
+              a.onreadystatechange = null;
+              void 0 != b && b();
+          }
+      } : void 0 != b && (a.onload = function () { b() });
+      a.src = c;
+      document.getElementsByTagName("head")[0].appendChild(a);
+  }
+
+  function _rc(c) {
+      c += "=";
+      for (var b = document.cookie.split(";"), a = 0; a < b.length; a++) {
+          for (var d = b[a]; " " == d.charAt(0);) d = d.substring(1, d.length);
+          if (0 == d.indexOf(c)) return d.substring(c.length, d.length);
+      }
+      return null;
+  }
+
+  function loadService(c) {
+      for (var b = serviceUrl + serviceKey, a = 0; a < loaded.length; a++)
+          if (loaded[a] == b) return;
+      loaded.push(b);
+      loadScript(serviceUrl + serviceKey, function () {
+          "function" === typeof _reciteLoaded && _reciteLoaded();
+          "function" == typeof c && c();
+          Recite.load(options);
+          Recite.Event.subscribe("Recite:load", function () { Recite.enable() });
+      });
+  }
+
+  "true" == _rc("Recite.Persist") && (autoLoad = !0);
+  if (frag || autoLoad) loadService();
+  </script>
+</head>
+```
