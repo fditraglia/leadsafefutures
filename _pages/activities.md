@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Activities
+title: Project Info
 permalink: /activities/
 ---
 
