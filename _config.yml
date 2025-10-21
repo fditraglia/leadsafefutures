@@ -4,10 +4,10 @@ theme: minima
 include: ['_pages']
 author: ECLIPS Team
 header_pages:
-  - faq.md
-  - information.md
-  - news.md
-  - activities.md
-  - resources.md
-  - team.md
-  - contact.md
+  - _pages/faq.md
+  - _pages/information.md
+  - _pages/news.md
+  - _pages/activities.md
+  - _pages/resources.md
+  - _pages/team.md
+  - _pages/contact.md
