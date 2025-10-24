@@ -97,4 +97,4 @@ The methods we're developing could also be used for other pollutants and disease
 Lead exposure is preventable. By developing effective screening methods, we can help identify children at risk and develop policies to reduce children's contact with lead at home and in communities. This will enable children to develop to their full potential without the harmful effects of lead exposure.
 
 ### Who is funding this research?
-This research is funded by UK Research and Innovation (UKRI) through a grant to Northumbria University and our research partners.
+This research is funded by UK Research and Innovation (UKRI) through a grant to Northumbria University and our research partners (Reference MR/Z505717/1).
