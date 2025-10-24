@@ -50,7 +50,7 @@ ECLIPS is led by Northumbria University in partnership with the UK Health Securi
 
 ### What are the common sources of Lead in the home?
 Common sources of lead in the home include lead-based paints, dust, old plumbing, and soil.
-If your home was built before 1970, it may have lead pipes. You can learn more about this issue through [Yorkshire Water Lead in Yorkshire's Water site](https://www.yorkshirewater.com/your-water/drinking-water-standards/lead-in-yorkshires-water/). Call your water provider for a water test if you are worried about lead pipes in your home (Yorkshire Water Contact  0345 124 2424).
+If your home was built before 1970, it may have lead pipes. You can learn more about this issue through [Lead in Yorkshire's Water site](https://www.yorkshirewater.com/your-water/drinking-water-standards/lead-in-yorkshires-water/). Call your water provider for a water test if you are worried about lead pipes in your home (Yorkshire Water Contact  0345 124 2424).
 
 ### What are the common sources of Lead in the environment?
 Common sources of lead in the home include:
