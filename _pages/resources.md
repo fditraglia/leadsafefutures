@@ -12,3 +12,7 @@ permalink: /resources/
 
 ### Sampling instructions video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BzO9_U8ZyAQ?si=oPMho2Hljg3wNDBe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Lead safe leaflet
+<p> Click here to view the <a href="/files/7-ECLIPS_LeadSafeLeaflet_v1.1.pdf">ECLIPS lead safe leaflet</a>.</p>
+
