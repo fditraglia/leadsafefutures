@@ -70,7 +70,8 @@ We're conducting our feasibility study in Leeds. The findings will help us devel
 Leeds was chosen because it is a diverse city with different income levels, job types, and backgrounds. Leeds healthcare is leading the way in lead awareness by alerting GPs and/or other clinical care providers to request a blood lead test when a blood sample is taken to test for iron levels.
 
 ### Can people sign up to take part?
-At the moment people can only take part in the study if they receive an invitation letter in the post. There may be an opportunity later in the study to sign up at either a Lead Safe roadshow event, at a community Gala or via our website.  
+At the moment people can only take part in the study if they receive an invitation letter in the post.
+From early April 2026, we will open a poster sign-up pathway for the project. Watch this space to find out where and when study posters will be put up.
 
 ### When will participants find out their results?
 All families will receive their child's blood lead results. Study participants will receive their results within two months of submitting their blood spot samples.  
@@ -82,7 +83,7 @@ The most reliable way to determine lead exposure is through a blood test, which 
 If high blood lead levels are found, participants will be informed quickly, and clinicians will provide guidance on possible interventions to reduce exposure.
 
 ### What will happen with the results of this study?
-The research team will share findings with health agencies, policymakers, health professionals, and the general public. The results will help agencies decide whether to rill out the studye to other areas of the UK and inform the UK Lead Exposure in Children Surveillance System (LEICSS). The results will also inform nationa cost-benefit analysis for lead intervention. 
+The research team will share findings with health agencies, policymakers, health professionals, and the general public. The results will help agencies decide whether to roll out the study to other areas of the UK and inform the UK Lead Exposure in Children Surveillance System (LEICSS). The results will also inform national cost-benefit analysis for lead intervention. 
 
 ### Will this study lead to a national screening programme?
 That's our vision. This study will help us develop and test the methods needed for a national childhood lead screening programme and a national prevalence study. Our findings will inform future policy decisions about widespread monitoring of lead in children's blood.
