@@ -99,18 +99,11 @@ I have a background in biology, water quality management, and public health. I h
 ![150UoB_RGB_24](https://github.com/user-attachments/assets/942169cd-ae16-4eb9-b080-0bfa4844771c)
 ![150Square CMYK Oxford print](https://github.com/user-attachments/assets/e4d30923-0c72-4922-bf10-d12c4d99691d)
 ![150aubergine_master_logo_for_digital_jpg (1)](https://github.com/user-attachments/assets/bcf7dded-4280-4d1c-b952-5bb947248767)
-
 ![150HSE](https://github.com/user-attachments/assets/dffe5e00-b568-446b-97f1-e35833cafc44)
 ![150LTHT](https://github.com/user-attachments/assets/78a56e5b-8351-4829-9370-4538c3d7da4b)
 ![150UKHSA master logo (002)](https://github.com/user-attachments/assets/e6c2bd00-66d9-41c0-bd8c-1de1aa7623e7)
 ![150Synnovis](https://github.com/user-attachments/assets/692071e8-3a15-49d6-a41a-7042f0d2e46d)
-
-
-
-
-
-
-
+![150LEAPP Alliance Text](https://github.com/user-attachments/assets/3cee17ff-4001-493f-87a2-b359bc97e9dd)
 
 
 
