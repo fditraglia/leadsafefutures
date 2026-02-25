@@ -17,5 +17,5 @@ permalink: /resources/
 <p> Click here to view the <a href="/files/7-ECLIPS_LeadSafeLeaflet_v1.1.pdf">ECLIPS lead safe leaflet</a>.</p>
 
 ### House dust and soil sampling instructions
-<p> Click here to view the <a href="files/8-ECLIPS_DustSoilSampling_v1.3.pdf">house dust and soil sampling instructions</a>.</p>
+<p> Click here to view the <a href="/files/8-ECLIPS_DustSoilSampling_v1.3.pdf">house dust and soil sampling instructions</a>.</p>
 
