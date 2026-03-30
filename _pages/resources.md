@@ -13,9 +13,11 @@ permalink: /resources/
 ### Sampling instructions video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BzO9_U8ZyAQ?si=oPMho2Hljg3wNDBe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### Successful samples guidance
+<p> View a <a href="/files/Successful_FailedSamples.pdf"> guide on what a successful sample looks like</a>.</p>
+
 ### Lead safe leaflet
 <p> Click here to view the <a href="/files/7-ECLIPS_LeadSafeLeaflet_v1.1.pdf">ECLIPS lead safe leaflet</a>.</p>
 
 ### House dust and soil sampling instructions
 <p> Click here to view the <a href="/files/8-ECLIPS_DustSoilSampling_v1.4website.pdf">house dust and soil sampling instructions</a>.</p>
-
